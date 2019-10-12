@@ -1,12 +1,12 @@
 {
-    "name": "laravel/laravel",
+    "name": "tsumug/r2p-webiot-portal",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "tsumug r2p webiot",
     "keywords": [
         "framework",
         "laravel"
     ],
-    "license": "MIT",
+    "license": "Distribution prohibited",
     "require": {
         "php": "^7.2",
         "fideloper/proxy": "^4.0",
