@@ -18,3 +18,10 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+
+*.bak
+*.log
+
+# IDE Generate files
+/.idea/
+.phpstorm.meta.php
