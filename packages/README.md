@@ -23,6 +23,8 @@ webiotからiotデータを受け取る
 
 ## Entities
 
+ * RecordData
+
  * データ
 
  * Daily集計
